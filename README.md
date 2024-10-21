@@ -1,6 +1,6 @@
-# AdventureWorks Power BI Dashboard
+# AdventureWorks Power BI Report
 
-This repository contains a Power BI dashboard project developed for AdventureWorks, a global manufacturing company that produces cycling equipment and accessories.
+This repository contains a Power BI project developed for AdventureWorks, a global manufacturing company that produces cycling equipment and accessories.
 
 ## Project Description
 
@@ -19,7 +19,7 @@ The management team at AdventureWorks needs a way to track KPIs (sales, revenue,
 - **Data Transformation**: Connected and transformed raw data using Power BI.
 - **Relational Data Model**: Built a relational data model to support analysis.
 - **DAX (Data Analysis Expressions)**: Created calculated columns and measures.
-- **Interactive Dashboard**: Designed an interactive dashboard to visualize the data.
+- **Interactive Report**: Designed an interactive Report to visualize the data.
 
 ## Visual Report 
 * Overview
